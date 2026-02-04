@@ -5,7 +5,7 @@ A tiny flashcard web app I built for daily interview practice.
 This tool helps me turn engineering decisions into short, speakable one-liners,
 and review them regularly before interviews.
 
-#### Demo: https://memory-card-note.vercel.app/
+#### Demo: https://memory-card-note.netlify.app/
 
 ## ✨ Why I built this
 
